@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UJvhaVUAWG/pRv02J35I+H9m0JHbS5RjoP9+rUghWdk=",
+  "Source": "RES.WebHost",
+  "BasePath": "_content/RES.WebHost",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
