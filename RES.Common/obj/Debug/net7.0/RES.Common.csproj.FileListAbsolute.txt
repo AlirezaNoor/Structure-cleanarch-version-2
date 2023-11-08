@@ -1,0 +1,12 @@
+D:\projects\PhoneNumber\Restaurant\RES.Common\bin\Debug\net7.0\RES.Common.deps.json
+D:\projects\PhoneNumber\Restaurant\RES.Common\bin\Debug\net7.0\RES.Common.dll
+D:\projects\PhoneNumber\Restaurant\RES.Common\bin\Debug\net7.0\RES.Common.pdb
+D:\projects\PhoneNumber\Restaurant\RES.Common\obj\Debug\net7.0\RES.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\PhoneNumber\Restaurant\RES.Common\obj\Debug\net7.0\RES.Common.AssemblyInfoInputs.cache
+D:\projects\PhoneNumber\Restaurant\RES.Common\obj\Debug\net7.0\RES.Common.AssemblyInfo.cs
+D:\projects\PhoneNumber\Restaurant\RES.Common\obj\Debug\net7.0\RES.Common.csproj.CoreCompileInputs.cache
+D:\projects\PhoneNumber\Restaurant\RES.Common\obj\Debug\net7.0\RES.Common.dll
+D:\projects\PhoneNumber\Restaurant\RES.Common\obj\Debug\net7.0\refint\RES.Common.dll
+D:\projects\PhoneNumber\Restaurant\RES.Common\obj\Debug\net7.0\RES.Common.pdb
+D:\projects\PhoneNumber\Restaurant\RES.Common\obj\Debug\net7.0\ref\RES.Common.dll
+D:\projects\PhoneNumber\Restaurant\RES.Common\obj\Debug\net7.0\RES.Common.sourcelink.json
