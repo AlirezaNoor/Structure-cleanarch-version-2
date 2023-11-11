@@ -22,4 +22,6 @@
       <ProjectReference Include="..\RES.Domain\RES.Domain.csproj" />
     </ItemGroup>
 
+
+
 </Project>
