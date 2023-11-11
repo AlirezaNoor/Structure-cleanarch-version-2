@@ -4,5 +4,5 @@ namespace RES.Application.Services.Users.command;
 
 public interface ICreateUserServices
 {
-    ResultDto<CreateUserResponseDto> Execute(CreateUserRequestDto requestDto);
+      Task<ResultDto<CreateUserResponseDto>> Execute(CreateUserRequestDto requestDto);
 }

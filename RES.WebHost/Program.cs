@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using RES.Application;
+using RES.Infrastructure;
 using RES.Infrastructure.context;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,11 +12,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.ServiceCollections();
+builder.Services.mycontainer();
 builder.Services.AddDbContext<ApplicationContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
-builder.Services.AddScoped<IApplicationContext, ApplicationContext>();
  
 var app = builder.Build();
 
