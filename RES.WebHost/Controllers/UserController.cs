@@ -15,9 +15,9 @@ public class UserController : ControllerBase
         _createUserServices = createUserServices;
     }
 [HttpPost]
-    public IActionResult Adduser(UserDto dto)
+    public async Task<IActionResult> Adduser(UserDto dto)
     {
-        var result = _createUserServices.Execute(new CreateUserRequestDto()
+        var result = await _createUserServices.Execute(new CreateUserRequestDto()
         {
             username = dto.username,
             Lastname = dto.Lastname,

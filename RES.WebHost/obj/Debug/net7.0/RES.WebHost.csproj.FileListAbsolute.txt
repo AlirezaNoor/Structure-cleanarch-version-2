@@ -83,3 +83,5 @@ D:\projects\PhoneNumber\Restaurant\RES.WebHost\obj\Debug\net7.0\refint\RES.WebHo
 D:\projects\PhoneNumber\Restaurant\RES.WebHost\obj\Debug\net7.0\RES.WebHost.pdb
 D:\projects\PhoneNumber\Restaurant\RES.WebHost\obj\Debug\net7.0\RES.WebHost.genruntimeconfig.cache
 D:\projects\PhoneNumber\Restaurant\RES.WebHost\obj\Debug\net7.0\ref\RES.WebHost.dll
+D:\projects\PhoneNumber\Restaurant\RES.WebHost\bin\Debug\net7.0\AutoMapper.dll
+D:\projects\PhoneNumber\Restaurant\RES.WebHost\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
